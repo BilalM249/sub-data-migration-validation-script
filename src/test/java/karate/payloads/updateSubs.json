@@ -1,0 +1,15 @@
+{
+  "offer": {
+    "id": "SUB-11606226245",
+    "source": "PDP"
+  },
+  "shipping": {
+    "shipmentCarrier": "USPS",
+    "shipmentMethod": "Ground",
+    "shipmentInstructions": "",
+    "taxCode": "SHP020000",
+    "shippingAmount": 10.00,
+    "taxAmount": 1.00,
+    "currencyCode": "USD"
+  }
+}

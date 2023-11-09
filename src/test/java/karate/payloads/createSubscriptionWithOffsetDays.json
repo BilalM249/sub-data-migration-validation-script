@@ -1,0 +1,90 @@
+{
+  "channel": "POS",
+  "originOrderId": "6803-4434458-4127a0",
+  "customer": {
+    "customerReferenceId": "cstD343433343DTCC3",
+    "locale": "en_US",
+    "email": "custoadawr31@mail.com",
+
+    "firstName": "customerFirstName",
+    "lastName": "customerLastName"
+
+  },
+  "items": [
+    {
+      "sku":"534773",
+      "quantity": 2,
+      "itemPrice": {
+        "price": 100.00,
+        "currencyCode": "USD"
+      },
+
+      "plan": {
+        "frequency": 1,
+        "frequencyType": "Daily"
+      },
+      "offsetDays": 10,
+
+      "shipping": {
+        "shipmentCarrier": "USPS",
+        "shipmentMethod": "Ground",
+        "shipmentInstructions": "",
+        "taxCode": "SHP020000",
+        "shippingAmount": 10.00,
+        "taxAmount": 1.00,
+        "currencyCode": "USD"
+      }
+    }
+  ],
+  "shipTo": {
+    "name": {
+      "firstName": "Roger",
+      "middleName": "",
+      "lastName": "Fang"
+    },
+    "streetAddress": {
+      "street1": "27 O ST",
+      "street2": ""
+    },
+    "phone": {
+      "number": "03323370957",
+      "kind": "mobile"
+    },
+    "city": "BOSTON MA",
+    "state": "MA",
+    "postalCode": "2127",
+    "country": "US"
+  },
+  "billTo": {
+    "name": {
+      "firstName": "Roger",
+      "middleName": "",
+      "lastName": "Fang"
+    },
+    "streetAddress": {
+      "street1": "27 O ST",
+      "street2": ""
+    },
+    "phone": {
+      "number": "012323370957",
+      "kind": "mobile"
+    },
+    "city": "BOSTON MA",
+    "state": "MA",
+    "postalCode": "2127",
+    "country": "US"
+  },
+  "paymentDetails": {
+    "paymentIdentifier": {
+      "cardIdentifier": "1234",
+      "expiryDate": "04/24"
+    },
+    "paymentMethod": "visa",
+    "paymentKind": "CARD_PAYPAL"
+  },
+  "customAttributes": {
+    "storeId": "1234567890",
+    "storeAssociateId": "jitu",
+    "trackingUrl": "http://google.com"
+  }
+}

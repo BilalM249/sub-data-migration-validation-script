@@ -1,0 +1,10 @@
+{
+  "customer": {
+    "customerReferenceId": "606f01f441b8f5299171",
+    "locale": "en_US",
+    "email": "updated@mail.com",
+    "contactNumber": "33337095681",
+    "firstName": "John2",
+    "lastName": "Doe2"
+  }
+}

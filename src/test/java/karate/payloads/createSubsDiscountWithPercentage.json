@@ -1,0 +1,26 @@
+{
+  "validity": {
+    "applyOnOrders": [
+      1,
+      2,
+      3,
+      10
+    ]
+  },
+  "message": "terms and conditions of the offer",
+  "discount": {
+    "percentage": 10
+  },
+  "skus": [
+    "802247"
+  ],
+  "categories": [ ],
+  "frequency": {
+    "frequency": 5,
+    "frequencyType": "Daily"
+  },
+  "customerSegment": [ ],
+  "itemQuantity": 5,
+  "channel": "POS",
+  "target": "PDP"
+}

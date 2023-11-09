@@ -1,0 +1,46 @@
+{
+  "stg02": {
+    "identity_endpoint": "https://gnc-storefront.login-sbx.fabric.inc",
+    "baseUrl": "https://stg02.copilot.fabric.inc/data-subscription",
+    "sku1": "dummy",
+    "sku2": "dummy",
+    "sku3": "dummy"
+  },
+  "local": {
+    "identity_endpoint": "https://gnc-storefront.login-sbx.fabric.inc",
+    "baseUrl": "https://stg02.copilot.fabric.inc/data-subscription",
+    "sku1": "dummy",
+    "sku2": "dummy",
+    "sku3": "dummy",
+    "invalid_offer_id": "123123131231"
+  },
+  "sandbox": {
+    "identity_endpoint": "https://gnc-storefront.login-sbx.fabric.inc",
+    "baseUrl": "https://sandbox.copilot.fabric.inc/data-subscription",
+    "sku1": "PROTEIN_00",
+    "sku2": "490043",
+    "sku3": "496889",
+    "invalid_offer_id": "123123131231",
+    "non_subscribable_sku": "PROTEIN_02",
+    "invalid_sku": "invalid_sku",
+    "reason1": "reson 12",
+    "code1": 99,
+    "productTitleForQuery": "New Testing Camera",
+    "customerReferenceId1": "606f01f44121"
+  },
+  "prod01": {
+    "identity_endpoint": "https://gncmobile-prod.login.fabric.inc",
+    "baseUrl": "https://live.copilot.fabric.inc/data-subscription",
+    "sku1": "SUBS_SKU_1",
+    "sku2": "SUBS_SKU_2",
+    "sku3": "SUBS_SKU_3",
+    "reason1": "reson 12",
+    "code1": 99,
+    "invalid_sku": "invalid_sku",
+    "non_subscribable_sku": "SUBS_NON_SUBSCRIBABLE_SKU",
+    "invalid_offer_id": "123123131231",
+    "sku1_offerCode": "SUB-95090053059",
+    "customerReferenceId1": "wabb111v123",
+    "productTitleForQuery": "SUBS_SKU_1"
+  }
+}

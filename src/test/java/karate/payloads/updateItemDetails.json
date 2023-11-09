@@ -1,0 +1,17 @@
+{
+  "lineItems": [
+    {
+      "lineItemId": 1,
+      "item": {
+        "weight": 100,
+        "weightUnit": "l1b",
+
+        "tax": {
+          "taxCode": "FR020000",
+          "taxAmount": 4566.00,
+          "currencyCode": "USD"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "shipping": {
+    "shipmentCarrier": "USPS_UPDATED",
+    "shipmentMethod": "Ground_UPDATED",
+    "shipmentInstructions": "NEW UPDATED INSTRUCTIONS",
+    "taxCode": "SHP020000_UPDATED",
+    "shippingAmount": 10.00,
+    "taxAmount": 1.00,
+    "currencyCode": "USD"
+  }
+}

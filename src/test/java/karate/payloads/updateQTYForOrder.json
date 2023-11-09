@@ -1,0 +1,12 @@
+{
+  "lineItems": [
+    {
+      "lineItemId": 1,
+      "item": {
+        "quantity": 10,
+        "weight": 100,
+        "weightUnit": "l1b"
+      }
+    }
+  ]
+}

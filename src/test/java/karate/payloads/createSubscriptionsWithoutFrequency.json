@@ -1,0 +1,90 @@
+{
+  "channel": "WEBSITE",
+  "originOrderId": "123123123123123",
+  "customer": {
+    "customerReferenceId": "606f01f441b8f5299171",
+    "locale": "en_US",
+    "email": "adawawda@mail.com",
+    "contactNumber": "3333709568",
+    "firstName": "John1",
+    "lastName": "Doe1"
+  },
+  "items": [
+    {
+      "sku": "PROTEIN_00",
+      "quantity": 1,
+      "weight": 10,
+      "weightUnit": "lb",
+      "itemPrice": {
+        "price": 100.00,
+        "currencyCode": "USD"
+      },
+      "tax": {
+        "taxCode": "FR020000",
+        "taxAmount": 10.00,
+        "currencyCode": "USD"
+      },
+
+      "shipping": {
+        "shipmentCarrier": "USPS",
+        "shipmentMethod": "Ground",
+        "shipmentInstructions": "",
+        "taxCode": "SHP020000",
+        "shippingAmount": 10.00,
+        "taxAmount": 1.00,
+        "currencyCode": "USD"
+      }
+    }
+  ],
+  "shipTo": {
+    "name": {
+      "firstName": "Roger",
+      "middleName": "",
+      "lastName": "Fang"
+    },
+    "streetAddress": {
+      "street1": "27 O ST",
+      "street2": ""
+    },
+    "phone": {
+      "number": "03323370957",
+      "kind": "mobile"
+    },
+    "city": "BOSTON MA",
+    "state": "MA",
+    "postalCode": "21274",
+    "country": "us"
+  },
+  "billTo": {
+    "name": {
+      "firstName": "Roger",
+      "middleName": "",
+      "lastName": "Fang"
+    },
+    "streetAddress": {
+      "street1": "27 O ST",
+      "street2": ""
+    },
+    "phone": {
+      "number": "012323370957",
+      "kind": "mobile"
+    },
+    "city": "BOSTON MA",
+    "state": "MA",
+    "postalCode": "2127",
+    "country": "us"
+  },
+  "paymentDetails": {
+    "paymentIdentifier": {
+      "cardIdentifier": "1234",
+      "expiryDate": "04/24"
+    },
+    "paymentMethod": "visa",
+    "paymentKind": "CARD_PAYPAL"
+  },
+  "customAttributes": {
+    "storeId": "1234567890",
+    "storeAssociateId": "jitu",
+    "trackingUrl": "http://google.com"
+  }
+}

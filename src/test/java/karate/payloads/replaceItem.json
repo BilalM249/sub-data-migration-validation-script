@@ -1,0 +1,21 @@
+{
+  "item": {
+    "sku": "PROTEIN_0006"
+  },
+  "replacementItem": {
+    "item": {
+      "sku": "PROTEIN_0007",
+      "quantity": 2,
+      "weight": 10,
+      "weightUnit": "lb",
+      "itemPrice": {
+        "price": 100.00,
+        "currencyCode": "USD"
+      }
+    },
+    "offer": {
+      "id": "SUB-69787044",
+      "source": "PDP"
+    }
+  }
+}

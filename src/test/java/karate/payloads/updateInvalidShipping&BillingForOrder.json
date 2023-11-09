@@ -1,0 +1,41 @@
+{
+  "shipTo": {
+    "name": {
+      "firstName": "customerFirst",
+      "middleName": "D",
+      "lastName": "customerLast"
+    },
+    "streetAddress": {
+      "street1": "abc",
+      "street2": "yz"
+    },
+    "phone": {
+      "number": "+29 455743845",
+      "kind": "phone"
+    },
+    "city": "Pune",
+    "state": "MH",
+    "postalCode": "411011",
+    "country": "IN"
+  },
+  "billTo": {
+    "name": {
+      "firstName": "Nirali",
+      "middleName": "L",
+      "lastName": "Shirsekar"
+    },
+    "streetAddress": {
+      "street1": "hello word",
+      "street2": "Fnag road"
+    },
+    "phone": {
+      "number": "+29 455743845",
+      "kind": "phone"
+    },
+    "city": "Pune",
+    "state": "MH",
+    "postalCode": "411006",
+    "country": "IN"
+  }
+}
+
